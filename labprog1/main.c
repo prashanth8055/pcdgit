@@ -24,4 +24,4 @@ int main()
                    printf(" the roots are complex and imaginary r1=%f+i%f,r2=%f+i%f\n",rr,ir,rr,ir);
                 }
     return 0;
-}
+} 
